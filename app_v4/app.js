@@ -4,7 +4,7 @@
 // npm install express mysql ejs body-parser --save
 
 //---------------------------- En el navegador: localhost:3000/articulos/A0003
-//k
+
 // Importaciones
 http: var path = require("path");
 const express = require("express");
